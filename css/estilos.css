@@ -1,0 +1,11 @@
+.barra{
+   background: rgb(217, 117, 241) !important; 
+   font-family: Georgia, 'Times New Roman', Times, serif; 
+}
+
+body{
+    background-color: rgba(111, 245, 167, 0.671);
+    text-align: center;
+    color:rgb(3, 3, 2);
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+} 
